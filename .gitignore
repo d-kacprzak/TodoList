@@ -1,0 +1,15 @@
+.eslintrc.json
+.gitignore
+.idea/.gitignore
+.idea/Todo List.iml
+.idea/eslintPlugin.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+git
+node_modules/
+package-lock.json
+package.json
+
